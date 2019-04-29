@@ -11,10 +11,10 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gestu`, `education`, `senegal`, `computer`, `science`, `android`, `blockchain`, `bitcoin`]} />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn Android Programming.</h1>
-        <p>Learn how to make Android Apps and create the next Instagram, Uber or Cash App</p>
+        <h1>Learn Android Programming</h1>
+        <p>Learn how to make Android Apps and create the next Instagram, Uber or Cash App!</p>
         
-        <a href="https://www.youtube.com/channel/UCWbdzoQSQhfUuNYj9XhDaPA">Watch the video trailers.</a>
+        <a href="https://www.youtube.com/channel/UCWbdzoQSQhfUuNYj9XhDaPA">Watch the video trailers</a>
         {/* <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path fill="white">
             <animate repeatCount="indefinite" fill="freeze" attributeName="D" dur="10" 

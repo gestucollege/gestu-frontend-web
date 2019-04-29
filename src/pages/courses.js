@@ -12,9 +12,9 @@ const CoursesPage = () => (
     <div className="Hero">
       <div className="HeroGroup">
         <h1>Courses</h1>
-        <p>Learn a variety of technical topics from the best instructors who speak your language.</p>
+        <p>Learn a variety of technical topics from the best instructors who speak your language</p>
         
-        <Link to="/">Watch the video trailer.</Link>
+        <Link to="/">Watch the video trailer</Link>
         {/* <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path fill="white">
             <animate repeatCount="indefinite" fill="freeze" attributeName="D" dur="10" 
