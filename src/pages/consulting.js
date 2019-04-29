@@ -11,10 +11,10 @@ const ConsultingPage = () => (
     <SEO title="Home" keywords={[`gestu`, `education`, `senegal`, `computer`, `science`]} />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Consulting.</h1>
+        <h1>Consulting</h1>
         <p>Our team speaks fluent Wolof, French and English. We are available for consulting in West Africa.</p>
         
-        <Link to="/">Watch the video trailer.</Link>
+        <Link to="/">Watch the video trailer</Link>
         {/* <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path fill="white">
             <animate repeatCount="indefinite" fill="freeze" attributeName="D" dur="10" 
