@@ -44,7 +44,7 @@ const IndexPage = () => (
         </div>
       </div>
       <div className="Cards">
-        <h2>Courses start on Wednesday May 15th, 2019!</h2>
+        <h2>Courses start on Monday June 10th, 2019!</h2>
         <div className="CardGroup"> 
         <Card
             title="Kotlin"
