@@ -11,7 +11,7 @@ const FigmaPage = () => (
     <SEO title="Home" keywords={[`gestu`, `education`, `senegal`, `computer`, `science`]} />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn Design with Figma</h1>
+        <h1>Figma</h1>
         <p>Design, prototype, and collaborate with Figma</p>
         
         <a href="https://www.figma.com/">Try Figma Today!</a>
