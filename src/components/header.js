@@ -36,7 +36,7 @@ class Header extends React.Component {
           <Link to="/android">Android</Link>
           <Link to="/kotlin">Kotlin</Link>
           <Link to="/figma">Figma</Link>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm9oGWSqN8gjLx-9KxdHE4OlK2UApbWzygkH-Qm5D7NeU5zQ/viewform"><button>Apply</button></a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm9oGWSqN8gjLx-9KxdHE4OlK2UApbWzygkH-Qm5D7NeU5zQ/viewform"><button>Register</button></a>
         </div>  
       </div>
     )
