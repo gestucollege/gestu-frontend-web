@@ -6,15 +6,15 @@ import Image from '../components/image'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 
-const CoursesPage = () => (
+const AndroidPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gestu`, `education`, `senegal`, `computer`, `science`]} />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Courses</h1>
-        <p>Learn a variety of technical topics from the best instructors who speak your language</p>
+        <h1>Android</h1>
+        <p>Learn how to make Android apps and build the next Instagram, Uber, Whatsapp...</p>
         
-        <Link to="/">Watch the video trailer</Link>
+        <a href="https://developer.android.com/studio">Download Android Studio</a>
         {/* <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path fill="white">
             <animate repeatCount="indefinite" fill="freeze" attributeName="D" dur="10" 
@@ -76,5 +76,5 @@ const CoursesPage = () => (
   </Layout>
 )
 
-export default CoursesPage
+export default AndroidPage
 

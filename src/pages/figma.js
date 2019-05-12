@@ -6,15 +6,15 @@ import Image from '../components/image'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 
-const WorkshopsPage = () => (
+const FigmaPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gestu`, `education`, `senegal`, `computer`, `science`]} />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn Blockchain Programming</h1>
-        <p>Learn Computer Science while working on the most exciting technology of the century.</p>
+        <h1>Learn Design with Figma</h1>
+        <p>Design, prototype, and collaborate with Figma</p>
         
-        <Link to="/">Watch the video trailer</Link>
+        <a href="https://www.figma.com/">Try Figma Today!</a>
         {/* <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path fill="white">
             <animate repeatCount="indefinite" fill="freeze" attributeName="D" dur="10" 
@@ -76,5 +76,5 @@ const WorkshopsPage = () => (
   </Layout>
 )
 
-export default WorkshopsPage
+export default FigmaPage
 

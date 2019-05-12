@@ -6,15 +6,15 @@ import Image from '../components/image'
 import SEO from '../components/seo'
 import Card from '../components/Card'
 
-const ConsultingPage = () => (
+const KotlinPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gestu`, `education`, `senegal`, `computer`, `science`]} />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Consulting</h1>
-        <p>Our team speaks fluent Wolof, French and English. We are available for consulting in West Africa.</p>
+        <h1>Kotlin</h1>
+        <p>Learn the official new language for programming Andrdoid apps</p>
         
-        <Link to="/">Watch the video trailer</Link>
+        <a href="https://kotlinlang.org/">Kotlin Documentation</a>
         {/* <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path fill="white">
             <animate repeatCount="indefinite" fill="freeze" attributeName="D" dur="10" 
@@ -76,5 +76,5 @@ const ConsultingPage = () => (
   </Layout>
 )
 
-export default ConsultingPage
+export default KotlinPage
 
