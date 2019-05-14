@@ -35,7 +35,7 @@ const KotlinPage = () => (
           </path>
         </svg>
         <div className="Logos">
-          <img src={require('../images/python.png')} width="50" height="50"/>
+          <img src={require('../images/firebase.png')} width="50" height="50"/>
           <img src={require('../images/figma.svg')} width="50" height="50"/>
           <img src={require('../images/android-logo.png')} width="50" height="50"/>
           <img src={require('../images/android-studio.png')} width="50" height="50"/>
