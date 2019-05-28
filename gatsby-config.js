@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gestu Collége`,
-    description: `Learn Blockchain Programming.`,
-    author: `@diopfodé`,
+    title: `Gëstu Collége`,
+    description: `Learn Android Mobile Development in Wolof!`,
+    author: `@diopfode`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
